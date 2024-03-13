@@ -1,5 +1,5 @@
 # AIML-_Batch_3
-1.[lab-1](https://github.com/Vanipriya996/AIML-_Batch_3/blob/main/README.md)
+1.[lab-1](https://github.com/Vanipriya996/AIML-_Batch_3/blob/main/LAB-1.ipynb)
 
 2.[lab-2](https://github.com/Vanipriya996/AIML-_Batch_3/blob/main/LAB-2.ipynb)
 
