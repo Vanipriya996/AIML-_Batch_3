@@ -15,6 +15,8 @@
 
 8.[lab-8](https://github.com/Vanipriya996/AIML-_Batch_3/blob/main/LAB-8.ipynb)
 
+9.[lab-9](https://github.com/Vanipriya996/AIML-_Batch_3/blob/main/LAB-9.ipynb)
+
 
 
 
