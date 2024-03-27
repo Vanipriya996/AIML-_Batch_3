@@ -11,6 +11,8 @@
 
 6.[lab-6](https://github.com/Vanipriya996/AIML-_Batch_3/blob/main/LAB-6.ipynb)
 
+7.[lab-7](https://github.com/Vanipriya996/AIML-_Batch_3/blob/main/LAB-7.ipynb)
+
 
 
 
